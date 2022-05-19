@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 
 namespace Pro
@@ -56,6 +57,17 @@ namespace Pro
 
             Console.WriteLine(random.NextDouble());
             Console.WriteLine(random.NextDouble()*10);
+
+            List<int> list = new List<int>();
+            list.Add(52);
+            list.Add(273);
+            list.Add(32);
+            list.Add(64);
+
+            foreach(var item in list)
+            {
+                Console.WriteLine("Count : " + list.Count + "item:" + item);
+            }
 
         }
     }
