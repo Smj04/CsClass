@@ -69,6 +69,12 @@ namespace Pro
                 Console.WriteLine("Count : " + list.Count + "item:" + item);
             }
 
+            Hamburger nyam = new Hamburger();
+
+            Product productA = new Product() { name = "소금빵", price = 2000};
+            productA.name = "포켓몬빵";
+            Product productB = new Product() { price = 5500, name = "당근케이크"};
+            Product productC = new Product() {name = "보름달" };
         }
     }
 }
