@@ -56,7 +56,7 @@ namespace Pro
             Console.WriteLine(random.Next(10, 100));
 
             Console.WriteLine(random.NextDouble());
-            Console.WriteLine(random.NextDouble()*10);
+            Console.WriteLine(random.NextDouble() * 10);
 
             List<int> list = new List<int>();
             list.Add(52);
@@ -64,17 +64,30 @@ namespace Pro
             list.Add(32);
             list.Add(64);
 
-            foreach(var item in list)
+            foreach (var item in list)
             {
                 Console.WriteLine("Count : " + list.Count + "item:" + item);
             }
 
             Hamburger nyam = new Hamburger();
 
-            Product productA = new Product() { name = "소금빵", price = 2000};
+            Product productA = new Product() { name = "소금빵", price = 2000 };
             productA.name = "포켓몬빵";
-            Product productB = new Product() { price = 5500, name = "당근케이크"};
-            Product productC = new Product() {name = "보름달" };
+            Product productB = new Product() { price = 5500, name = "당근케이크" };
+            Product productC = new Product() { name = "보름달" };
+
+            Box1 box1 = new Box1(10, 10);
+            box1.width = -10;
+            Console.WriteLine("box1의 면적 : " + box1.Area());
+
+            Box2 box2 = new Box2(10, 10);
+            box2.setWidth(-10);
+            Console.WriteLine("box2의 면적 : " + box2.Area());
+
+            Box box = new Box(10, 10);
+            box.Width = -10;
+            Console.WriteLine("box의 면적 : " + box.Area);
+
         }
     }
 }
