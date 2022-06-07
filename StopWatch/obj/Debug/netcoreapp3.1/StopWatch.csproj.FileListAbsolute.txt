@@ -1,0 +1,15 @@
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.Form1.resources
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.GenerateResource.cache
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
