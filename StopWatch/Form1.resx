@@ -57,30 +57,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>ak</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>True</value>
-  </metadata>
-  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
-    <value>9, 16</value>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>386, 389</value>
+  <data name="&gt;&gt;lbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <assembly alias="System.Drawing.Primitives" name="System.Drawing.Primitives, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>105, 286</value>
+  </data>
+  <data name="btnStart.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>105, 139</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>나만의 스톱워치</value>
+  </data>
+  <assembly alias="System.Private.CoreLib" name="System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" />
+  <data name="lbl.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>0</value>
   </data>
   <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing.Common">
     <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>나만의 스톱워치</value>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>386, 389</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblStatus.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnStart.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
+    <value>StopWatch</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lblStatus.Name" xml:space="preserve">
+    <value>lblStatus</value>
   </data>
+  <data name="&gt;&gt;lblStatus.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbl.Name" xml:space="preserve">
+    <value>lbl</value>
+  </data>
+  <data name="&gt;&gt;lblStatus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing.Primitives">
+    <value>9, 16</value>
+  </data>
+  <data name="lblStatus.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>105, 267</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnStart.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>113, 99</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
+    <value>btnStart</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>3</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>ak</value>
+  </metadata>
 </root>

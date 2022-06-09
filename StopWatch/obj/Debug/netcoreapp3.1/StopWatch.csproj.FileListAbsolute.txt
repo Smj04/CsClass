@@ -13,3 +13,6 @@ F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompi
 F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
 F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
 F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
+F:\CSharp\StopWatch\StopWatch\bin\Debug\netcoreapp3.1\ak\StopWatch.resources.dll
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.Form1.ak.resources
+F:\CSharp\StopWatch\StopWatch\obj\Debug\netcoreapp3.1\ak\StopWatch.resources.dll
