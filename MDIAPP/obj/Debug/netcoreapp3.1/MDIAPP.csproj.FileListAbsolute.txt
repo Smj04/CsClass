@@ -13,3 +13,4 @@ F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.pdb
 F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.dll
 F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.pdb
 F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.genruntimeconfig.cache
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.CustomForm.resources
