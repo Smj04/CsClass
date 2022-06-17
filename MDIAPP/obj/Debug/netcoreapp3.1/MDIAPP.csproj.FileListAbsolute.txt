@@ -1,0 +1,15 @@
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.csprojAssemblyReference.cache
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.Form1.resources
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.csproj.GenerateResource.cache
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.AssemblyInfoInputs.cache
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.AssemblyInfo.cs
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.csproj.CoreCompileInputs.cache
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.exe
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.deps.json
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.runtimeconfig.json
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.runtimeconfig.dev.json
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.dll
+F:\CSharp\MDIAPP\MDIAPP\bin\Debug\netcoreapp3.1\MDIAPP.pdb
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.dll
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.pdb
+F:\CSharp\MDIAPP\MDIAPP\obj\Debug\netcoreapp3.1\MDIAPP.genruntimeconfig.cache
